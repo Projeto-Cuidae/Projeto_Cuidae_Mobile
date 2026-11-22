@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🩵 Cuidaê
+# Cuidaê
 
 **Cuidado domiciliar compartilhado, acessível e de confiança.**
 
@@ -120,12 +120,3 @@ O protótipo de alta fidelidade foi desenvolvido no **Figma** e cobre os princip
 | Estevão Nunes | Analista / Desenvolvedor |
 | Eduardo Erlacher | Analista / Desenvolvedor |
 
-## Contexto acadêmico
-
-Projeto desenvolvido na disciplina **Projeto Integrador I (TII 5 – 2026/2)** do curso Técnico em Informática para Internet Integrado ao Ensino Médio, no **Instituto Federal do Espírito Santo (Ifes) – Campus Serra**, sob orientação do professor Luciano de Oliveira Toledo.
-
----
-
-<div align="center">
-Feito com 🩵 pela equipe Cuidaê
-</div>
